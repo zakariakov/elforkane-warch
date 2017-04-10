@@ -1,8 +1,10 @@
-# elforkane-warch
+# elforkane-warسh
 
 هذه صور تحتوي على رواية ورش لبرنامج الفرقان
 لاستحدامها قم بنسخ مجلد 
+
 warsh
+
 الى مسار برنامج الفرقان كما يلي
 
 sudo cp -r warsh /usr/share/elforkane/images/
